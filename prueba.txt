@@ -1,3 +1,4 @@
 Adios
 Cambio este fichero para generar un conflicto
 nueva version para probar pull request con una regla
+nueva version para usar pull request correctamente
